@@ -26,6 +26,6 @@ python main.py
 
 ## Demo
 
-![Demo](Demo.mp4)
+![Demo](Demo.gif)
 
 Built for fun while exploring computer vision and gesture-based interactions.
